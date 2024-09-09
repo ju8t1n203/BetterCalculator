@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42029: 'Catch' block never reached; exception type's base type handled above in the same Try statement
+dotnet_diagnostic.BC42029.severity = none
